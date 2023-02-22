@@ -1,0 +1,22 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I chose Node.js because I'm the most comfortable with this language (for projects especially). All my side projects and businesses I've always used Node.JS so it's a lot more fun for me to use. I used fs, and csv-parser for this coding exercise because they are well-suited for handling 
+file operations and data parsing. The fs module provides an API for interacting with the file system, making it easy to read and write files.
+The csv-parser library is specifically designed for parsing CSV files, which is the format used in the exercise so I thought it would be a nice clean package to use.
+
+2. What are the advantages and disadvantages of your solution?
+The advantages of my solution is that it provides solid error messages, so a user can figure out if they are getting errors.
+I'd say the code is pretty clean as well and if someone were to look at it, they'd be able to understand it fairly quickly.
+I think disadvantages is that we go through the data multiple times, so we could definetely optimize this.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+My favorite personal project by far has been Dunk Proxies. I got into computer science and coding in a really interesting way.
+I sold shoes back in middle school and high school. And a lot of times these shoes would be very limited in quantity making it very 
+hard to aquire. Fast-forwarding a few friends of mine told me that instead of me doing hard labour and waiting and walking in lines for 
+upwards of 3-4 hours to get 1 pair of shoes. I should instead learn how to code and make a sneaker bot. So that's exactly what I did, I
+ended up learning the MERN stack, and made a sneaker software company called Dunk Proxies which sold IPV4 proxies, it was my first full-stack
+project which included, a React website with Stripe payment integration and Twilio SendGrid API that sent out authentication tokens that allowed
+customers to redeem their IPV4 proxies from my server. It was great combining 2 of my passions, sneakers and coding to create a business.
+I still have customers I still talk to from time to time and more than anything the experience and connections I made through this was 
+one of my most memorable parts of my teenage years.
